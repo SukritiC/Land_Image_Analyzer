@@ -1,10 +1,14 @@
-# 🌿 Land Image Analyser 🤖  
+# 🌿 Land Image Analyser   
 **AI-powered land and crop insights — just upload a photo and get instant analysis.**
 
 ![Status](https://img.shields.io/badge/Status-MVP_Prototype-blue?style=flat-square)
 ![Tech](https://img.shields.io/badge/Built_With-FastAPI_•_React_•_VertexAI-00C853?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+<p align="center">
+  <!-- TODO: Replace this placeholder with a high-quality GIF or screenshot of the application in action. -->
+  <img src="src/img1.jpg" alt="Land Image Analyser Demo" width="800"/>
+</p>
 ---
 
 ## 📖 Overview
@@ -12,7 +16,16 @@
 This repository contains the **concept**, **documentation**, and **roadmap** for **Land Image Analyser**, an MVP project designed to make **precision agriculture accessible** to farmers, agri-consultants, and land developers.
 
 > ⚠️ **Note:** The source code for this project is not public at this time.  
-> 📚 [Read the full story on Medium](#) &nbsp;|&nbsp; 🎥 [Watch the Demo on YouTube](#)
+> 📚 [Read the full story on Medium](https://sukriti-speaks.medium.com/land-image-analyzer-ai-powered-land-crop-insight-platform-fcca6c8c6065) &nbsp;|&nbsp; 🎥 [Watch the Demo on YouTube](https://www.youtube.com/watch?v=OfVCkquWBR4)
+
+## ✨ MVP Prototype Glimpse
+
+Here’s a quick look at how the Land Image Analyser works. A user uploads an image, asks a question, and receives an instant, AI-driven analysis.
+
+<p align="center">
+  <!-- TODO: Replace this placeholder with a high-quality GIF or screenshot of the application in action. -->
+  <img src="src/landing_page.png" alt="Land Image Analyser Demo" width="800"/>
+</p>
 
 ---
 
@@ -44,27 +57,14 @@ Just **upload a photo** of your land and receive:
 
 The platform is built using a **modern, scalable, serverless architecture** to ensure performance and reliability.
 
-| Component | Technology Used |
-|------------|-----------------|
-| 🖥️ **Frontend** | React.js (Single-Page Application) |
-| ⚙️ **Backend** | FastAPI deployed on Google Cloud Run |
-| 🧠 **AI & ML** | Google Vertex AI with Gemini 1.5 Pro |
-| ☁️ **Storage** | Google Cloud Storage (image uploads) |
+| Component | Technology Used                                                    |
+|------------|--------------------------------------------------------------------|
+| 🖥️ **Frontend** | React.js (Single-Page Application)                                 |
+| ⚙️ **Backend** | FastAPI deployed on Google Cloud Run                               |
+| 🧠 **AI & ML** | Google Vertex AI with Gemini 2.5 Pro                               |
+| ☁️ **Storage** | Google Cloud Storage (image uploads)                               |
 | 🔄 **Post-Processing** | Google Cloud Functions (async image resizing, metadata extraction) |
-| 🌐 **Translation** | Google Cloud Translation API (multi-language support) |
-
----
-
-## 🗺️ Roadmap
-
-🚀 Upcoming milestones for enhancing the platform:
-
-- [ ] **Satellite Imagery Integration** — Enable large-scale monitoring.  
-- [ ] **Voice-based Queries** — Hands-free AI interaction.  
-- [ ] **Expanded Language Support** — Include more regional languages.  
-- [ ] **AI Model Fine-tuning** — Improve accuracy with real-world datasets.  
-
-💡 We are actively seeking **feedback and ideas** to refine our goals and expand our impact.
+| 🌐 **Translation** | Google Cloud Translation API (multi-language support)              |
 
 ---
 
@@ -75,6 +75,10 @@ While the **codebase is not open-source**, we welcome **contributions** in the f
 Got a suggestion or feature idea?  
 📬 Open an issue in this repository — your domain expertise can help shape the future of this platform.
 
+<p align="center">  
+  Made with ❤️ & powered by <b>AI</b> for a sustainable future.  
+</p>
+
 ---
 
 ## 📄 License
@@ -83,15 +87,30 @@ This documentation and conceptual content are distributed under the **MIT Licens
 See the [LICENSE](./LICENSE) file for more information.
 
 ---
+## 📬 Connect with Me  
 
-## 🙏 Acknowledgments
+I’m always open to connecting with **developers**, **AI enthusiasts**, and **innovators** working on **Generative AI projects**.  
+Let’s connect, collaborate, and create impact together!
 
-A big thank you to the developers and creators behind the powerful tools and frameworks that made this project possible.  
-
-> 🌾 **Inspired by the hardworking farmers who feed our world.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/sukritichatterjee/" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SukritiC" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+   <a href="https://sukriti-speaks.medium.com/" target="_blank" style="margin-right: 15px;">
+    <img src="src/medium.png" width="40" height="40" alt="Medium"/>
+  </a>
+  <a href="https://x.com/SukritiSpeak" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" width="40" height="40" alt="X (Twitter)"/>
+  </a>
+</p>
 
 ---
 
-<p align="center">  
-  Made with ❤️ & powered by <b>AI</b> for a sustainable future.  
+<p align="center">
+  💬 Let’s exchange ideas on <b>Generative AI</b> and build something extraordinary together. 🌍  
 </p>
+
+---
